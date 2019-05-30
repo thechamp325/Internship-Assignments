@@ -1,0 +1,12 @@
+Problem Statement 1: 2D Linked List.
+
+Create a 2D linked list from a matrix having dimensions 3x3 which will implement following functions:
+
+
+i) perimeter() - Computes the perimeter of the elements of the matrix which form the square.
+
+ii) diagonal() -  Computes the sum of the diagonal elements
+
+iii) Transpose of the matrix
+
+Make appropriate use of pointers.(Think and comment about your thinking process for this)
