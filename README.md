@@ -1,4 +1,4 @@
-# EspressifInterview
+# Internship Assignments
 This repository contains problem statements to be solved, which will be considered as a soft filter criteria during the interview process.
 
 Instructions:
