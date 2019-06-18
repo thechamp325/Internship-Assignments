@@ -1,4 +1,4 @@
 We used Binary Search tree as a data structure in this
 used random number generator for ID generation
 Inorder traversal for print operation
-postorder traversal for searching
+preorder traversal for searching
