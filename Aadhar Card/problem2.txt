@@ -1,32 +1,4 @@
-Problem Statement 2: Aadhar Card Management.
-
-You have been given the responsibility to manage the data of a Aadhar like card.
-
-Each entry has these mandatory fields:
-Aadhar Id - [Unique, Random]
-First Name - 
-Guardian’s Name -
-Last Name -
-
-You should be able to do the following with the entries:
-- Adding an entry
-- Deleting an entry
-- Updating an entry - (Not Aadhar Id)
-- Searching an entry
-
-Search by Id or Full name(The user enters their 'full name' or any substring, return all the entries that match [in First name, guardian’s name, last name] completely or partially)
-- Blacklist entries/ Remove from Blacklist
-
-Don’t allow users to access the entry, if the entry is blacklisted
-
-Now, there is a telephone company which uses this data to give unique phone numbers to people with non blacklisted Aadhar Id’s.
-Users provide the telephone company with their Aadhar Id & First Name.
-Check the first name against the Aadhar Id in o(1) and return with yes or no.
-If the entry is present, the telephone company allots a unique phone number to the recipient.
-You could use console input or file input or any other means.
-
-Try to use as many OOP concepts as you can.
-
-Note:
-Write a quick summary of the thought process how you decided to approach the problem.
-- Have done something extra other than the problem? Please mention, we would love to know.
+We used Binary Search tree as a data structure in this
+used random number generator for ID generation
+Inorder traversal for print operation
+postorder traversal for searching
